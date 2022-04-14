@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Codewars Badge](https://www.codewars.com/users/DylanLovell93/badges/large)
+![Codewars Badge](https://www.codewars.com/users/DylanLovell93/badges/large)
 <!--
 **DylanLovell93/DylanLovell93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
